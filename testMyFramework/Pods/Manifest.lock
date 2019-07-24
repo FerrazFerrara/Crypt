@@ -1,0 +1,16 @@
+PODS:
+  - Crypt (1.0.0)
+
+DEPENDENCIES:
+  - Crypt (from `../Crypt/`)
+
+EXTERNAL SOURCES:
+  Crypt:
+    :path: "../Crypt/"
+
+SPEC CHECKSUMS:
+  Crypt: 6eafd1cf0c820257edb41dfa2dc33586a42d8a57
+
+PODFILE CHECKSUM: cf86413b86bcbdc6e52fdc91ad347768cc3447ac
+
+COCOAPODS: 1.7.1
